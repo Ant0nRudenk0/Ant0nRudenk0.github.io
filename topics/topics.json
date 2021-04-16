@@ -3,13 +3,13 @@
         "id": 1,
         "title": "IDEF0 диаграммы",
         "description": "IDEF0 диаграммы курсового проекта",
-        "preview": "img/use-case-diagram.png"
+        "preview": "img/1.png"
     },
     {
         "id": 2,
         "title": "DFD диаграммы",
         "description": "DFD диаграммы курсового проекта",
-        "preview": "img/class-diagram.png"
+        "preview": "img/7.png"
     },
     {
         "id": 3,
