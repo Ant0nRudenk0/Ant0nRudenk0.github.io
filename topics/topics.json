@@ -9,12 +9,12 @@
         "id": 2,
         "title": "DFD диаграммы",
         "description": "DFD диаграммы курсового проекта",
-        "preview": "img/7.png"
+        "preview": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/7.PNG"
     },
     {
         "id": 3,
         "title": "UML диаграммы",
         "description": "UML диаграммы курсового проекта",
-        "preview": "img/8.png"
+        "preview": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/8.PNG"
     }
 ]
