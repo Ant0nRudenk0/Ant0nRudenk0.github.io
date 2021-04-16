@@ -1,1 +1,107 @@
-
+{
+    "title": "Создание диаграмм UML курсового проекта",
+    "items": [  
+      {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Use Case",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/UML%20Use%20Case.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/8.PNG" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: описание потоков, ролей, модулей"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма потоков",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/ERD_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/9.PNG" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма ролей",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/ERD_%D1%80%D0%BE%D0%BB%D0%B5%D0%B9.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/10.PNG?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ER-диаграмма модулей",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/ERD_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/11.PNG" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемые процессы и потоки данных: А33 Сформировать документ"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/UML%20Sequence.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/12.PNG?raw=true" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: Структура программных средств системы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Deployment",
+                    "link": "https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/UML%20Deployment.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/Ant0nRudenk0/rudenko.github.io/blob/master/kurs/13.PNG?raw=true" 
+        }
+      ]
+}
