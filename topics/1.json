@@ -7,10 +7,6 @@
                 {
                     "text": "IDEF0 диаграммы курсового проекта",
                     "class": "md-title"
-                    "style": {
-                        "font-style": "italic",
-                           "color": "red"
-                    },
                 }
             ]
         },
